@@ -229,3 +229,13 @@ topicInput.addEventListener('keydown', (e) => {
 // ── Init ──
 renderRecent();
 showEmpty();
+
+// ==========================================
+// FUTURE MESH API INTEGRATION (PHASE 2)
+// ==========================================
+// TODO: Connect contact@meshapi.ai credentials here
+// This placeholder function is structurally ready to fetch user profiles via Mesh Link
+async function syncWithMeshPlatform() {
+    console.log("Mesh integration pipeline ready for creator auth sync.");
+    // const response = await fetch('https://api.meshapi.ai/v1/user');
+}
