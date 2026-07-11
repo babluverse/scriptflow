@@ -109,7 +109,7 @@ Topic saved to Recent History
 
 ## 🌐 Live Demo
 
-🔗 [View Live](https://babluverse.github.io/scriptflow-10x)
+🔗 [View Live](https://babluverse.github.io/scriptflow)
 
 ---
 
